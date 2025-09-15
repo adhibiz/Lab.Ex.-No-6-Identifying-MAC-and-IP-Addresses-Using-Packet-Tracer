@@ -52,6 +52,11 @@ ________________________________________
 <img width="2878" height="1799" alt="image" src="https://github.com/user-attachments/assets/5c8ce2dd-0c49-4c7b-a2ad-2b8e87d862f6" />
 <img width="2879" height="1471" alt="image" src="https://github.com/user-attachments/assets/326bfae7-8866-47dd-80c5-a20151ddc02e" />
 
+<img width="2870" height="1236" alt="image" src="https://github.com/user-attachments/assets/5c9bc887-5b91-43fe-8b4c-aae7fb095648" />
+<img width="2879" height="1279" alt="image" src="https://github.com/user-attachments/assets/f6691eb8-084e-445a-a1cd-413f632bd153" />
+
+
+
 
 
 •	PDU details for remote communication<br>
